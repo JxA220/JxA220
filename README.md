@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Josue Aristimuno!
-- 👀 Estou interessado em começar meu primeiro emprego como desenvolvedor Python
+- 👀 Estou interessado em começar meu primeiro emprego como desenvolvedor.
 - 🌱 Atualmente, estou aprendendo sobre Python e iniciando un curso de Javascript.
 - 💞️ Estou a procura de desenvolver mais minhas habilidades como desenvolvedor e em busca de oportunidades para iniciar no mercado de trabalho neste maravilhoso mundo da 
 programação.
